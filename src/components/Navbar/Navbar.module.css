@@ -1,0 +1,39 @@
+
+
+
+.wrapper {
+    grid-area: navbar;
+    background: green;
+    padding: 20px;
+}
+
+.wrapper a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    font: 20px Helvetica;
+    margin-top: 10px;
+}
+
+.wrapper a.activeLink {
+    color: gold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
